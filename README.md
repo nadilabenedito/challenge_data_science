@@ -1,1 +1,1 @@
-# challenge_data_science
+# Challenge criado pela Alura para alunos das formações "Data Science" e "Machine Learning".
